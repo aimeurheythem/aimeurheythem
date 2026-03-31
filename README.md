@@ -4,9 +4,9 @@
 
 # 🌿 Hi, I'm Heythem 👋
 
-💻 Full-stack developer  
-🌱 Currently learning Django & React  
-☕ I love building useful and simple apps  
+💻 Software Engineer   
+🌱 Work with Django, node, React & NextJS and more ...
+☕ I love building useful and professional apps  
 
 ---
 
@@ -17,9 +17,12 @@ I enjoy learning new technologies and improving my skills every day.
 ---
 
 ## ⚡ Tech Stack
-- Frontend: React, TypeScript  
-- Backend: Django  
-- Styling: Tailwind CSS  
+- Frontend: React, TypeScript & Tailwind CSS  
+- Backend: Django, node
+- Databases: PostgreSQL, MongoDB, Microsoft SQL server SSMS
+- API: RESTful, GraphQL,
+- Tools: Docker, npm, Postman, Apollo, git
+- Languages: Python, JavaScript
 
 ---
 

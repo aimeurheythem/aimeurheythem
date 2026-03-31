@@ -19,3 +19,7 @@ I enjoy learning new technologies and improving my skills every day.
 - Styling: Tailwind CSS  
 
 ---
+
+## 📊 GitHub Stats
+
+![Aimeur's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimeurheythem&show_icons=true&theme=tokyonight)

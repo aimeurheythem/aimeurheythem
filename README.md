@@ -1,4 +1,4 @@
-# 🌿 Hi, I'm Aimeur 👋
+# 🌿 Hi, I'm Heythem 👋
 
 💻 Full-stack developer  
 🌱 Currently learning Django & React  

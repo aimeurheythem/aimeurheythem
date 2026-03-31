@@ -1,4 +1,7 @@
 ![banner](./banner.png)
+
+![Typing](https://readme-typing-svg.herokuapp.com?color=8BA888&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+useful+apps;Django+%7C+React+%7C+TypeScript;Always+learning+new+things)
+
 # 🌿 Hi, I'm Heythem 👋
 
 💻 Full-stack developer  

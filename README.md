@@ -22,4 +22,4 @@ I enjoy learning new technologies and improving my skills every day.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aimeurheythem&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aimeurheythem&show_icons=true&theme=radical&border_radius=15)
